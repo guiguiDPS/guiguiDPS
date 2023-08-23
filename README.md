@@ -1,6 +1,6 @@
 ## Olá! sou o Guilherme Diogo 🖐️, Desenvolvedor Full Stack
 
-Sou um programador Full-Stack com 18 anos de idade e atualmente formado no Técnico em Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.
+Sou um programador Full-Stack com 19 anos de idade, atualmente formado no Técnico em Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.
 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta - Previsão de Conclusão, dezembro de 2025.
 Sempre buscando a excelência na qualidade do código e além disso, estou sempre aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.
 
